@@ -1,0 +1,13 @@
+{
+ "format": 1,
+ "hw": "C3HM",
+ "packages": [
+  {
+   "name": "HMI_v5.3.0.hmp",
+   "ver": 328448,
+   "version": "5.3.0",
+   "size": 1725420,
+   "sha256": "a3a3825268b72160a1c982c81c96ff6509c469785246f37761dc9d275baa3dd3"
+  }
+ ]
+}
