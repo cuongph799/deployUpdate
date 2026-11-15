@@ -1,7 +1,62 @@
 {
  "format": 1,
- "updated": "2026-11-14T13:51:32+07:00",
+ "updated": "2026-11-15T10:47:18+07:00",
  "packages": [
+  {
+   "name": "BLSK_v1.7.67_Feliz2021_6D5A039F.tsp",
+   "family": "BLSK",
+   "ext": ".tsp",
+   "ver": 67395,
+   "image": "996683F8A2C3798E",
+   "version": "1.7.67",
+   "cfg": "6D5A039F",
+   "size": 53860,
+   "sha256": "e15e22128de1ccb187b740842cccf9e68b2b131b73b84ad168498abd35d5c92b"
+  },
+  {
+   "name": "BLSK_v1.7.67_Grand.tsp",
+   "family": "BLSK",
+   "ext": ".tsp",
+   "ver": 67395,
+   "image": "36E8C41659B085D9",
+   "version": "1.7.67",
+   "cfg": "5F6A31D9",
+   "size": 53860,
+   "sha256": "b908b30a217bbdc52caed92341dc1d1c9e5fd88a440a4894cb378610f1f008a6"
+  },
+  {
+   "name": "BLSK_v1.7.67_LFP.tsp",
+   "family": "BLSK",
+   "ext": ".tsp",
+   "ver": 67395,
+   "image": "5553AF33A14D2469",
+   "version": "1.7.67",
+   "cfg": "5F6A31D9",
+   "size": 53860,
+   "sha256": "1e6b1fd25c20c40aadd8a124d8e7ccf443a308c739b5c4f0513a2c43193a0aa1"
+  },
+  {
+   "name": "BLSK_v1.7.67_Max.tsp",
+   "family": "BLSK",
+   "ext": ".tsp",
+   "ver": 67395,
+   "image": "98B4F88A4D87AB00",
+   "version": "1.7.67",
+   "cfg": "5F6A31D9",
+   "size": 53860,
+   "sha256": "8d4d7f9bc31f509fe8b1dff3ee3ebe92502cbf49fb99cbe44193b621092e185f"
+  },
+  {
+   "name": "BLSK_v1.7.67_Std_2B5E7D3C.tsp",
+   "family": "BLSK",
+   "ext": ".tsp",
+   "ver": 67395,
+   "image": "B3219207E0E6A133",
+   "version": "1.7.67",
+   "cfg": "2B5E7D3C",
+   "size": 53860,
+   "sha256": "3b6ce4a6b97fcab0113fbf97a835d09364d49a51a5e0448297606638f4a88b1b"
+  },
   {
    "name": "BLSK_v1.7.66_Feliz2021_6D5A039F.tsp",
    "family": "BLSK",
@@ -111,6 +166,54 @@
    "cfg": "2B5E7D3C",
    "size": 53860,
    "sha256": "3d9871106b838294eb14ec5501455bbe4c6c8848abb20d4ccba5e5c42e3539ba"
+  },
+  {
+   "name": "BSTM_v1.8.53_V1_EvoGrand.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67637,
+   "image": "F05F966D356CD882",
+   "version": "1.8.53",
+   "variant": 1,
+   "variantName": "Evo Grand",
+   "size": 47588,
+   "sha256": "76d713bb339b7c2c4d39ba838b976a0ea4193eeb05df3041150d03b877af4c2f"
+  },
+  {
+   "name": "BSTM_v1.8.53_V1_EvoLFP.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67637,
+   "image": "5C2E927B7468A023",
+   "version": "1.8.53",
+   "variant": 3,
+   "variantName": "Evo LFP",
+   "size": 47588,
+   "sha256": "ea8696709370d9593e480b1fcd40c90488a023d92837906b154f0b5212ab1c69"
+  },
+  {
+   "name": "BSTM_v1.8.53_V1_EvoMax.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67637,
+   "image": "95BF3A8A629DDBF2",
+   "version": "1.8.53",
+   "variant": 2,
+   "variantName": "Evo Max",
+   "size": 47588,
+   "sha256": "c8f43da67c86d54c6a56a6da007dc45de00f355a8ad31d8561463818d3cccfc1"
+  },
+  {
+   "name": "BSTM_v1.8.53_V1_Feliz2021.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67637,
+   "image": "89887FBB4ACB3096",
+   "version": "1.8.53",
+   "variant": 0,
+   "variantName": "Feliz 2021",
+   "size": 47588,
+   "sha256": "d447c1183bee3fe81412020240d9ff93306d5e67b02b4469593c21f58e677449"
   },
   {
    "name": "BSTM_v1.8.52_V1_EvoGrand.fzp",
