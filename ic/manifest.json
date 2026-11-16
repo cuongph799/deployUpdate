@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-16T13:14:50+07:00",
+ "updated": "2026-11-16T15:47:23+07:00",
  "packages": [
   {
    "name": "BLSK_v1.7.70_Feliz2021.bfw",
@@ -325,6 +325,19 @@
    "image": "A50CB67477951ED8",
    "size": 101167,
    "sha256": "434b2e7201c2e8302b3ef2ef1ff24e21c630311845585842e5a91a2fef2b48cf"
+  },
+  {
+   "name": "BSTM_v1.8.57_EvoMax_Custom.bfw",
+   "family": "BSTM",
+   "ext": ".bfw",
+   "ver": 67640,
+   "version": "1.8.56",
+   "variant": "EvoMax",
+   "cfg": "00000002",
+   "keyId": "638BA293",
+   "image": "7FE64010E9BE3611",
+   "size": 101178,
+   "sha256": "79ebef4c28ce4b9b2df392ff903e0c95f0b48370f137738ba71c2a531fb1ba1e"
   },
   {
    "name": "BSTM_v1.8.54_V1_EvoGrand.fzp",
