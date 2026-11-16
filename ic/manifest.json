@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-16T15:47:23+07:00",
+ "updated": "2026-11-16T15:54:46+07:00",
  "packages": [
   {
    "name": "BLSK_v1.7.70_Feliz2021.bfw",
@@ -288,6 +288,18 @@
    "sha256": "141b509b8070c3773d5f79a9cbad8d5fd5251fd6d5aec88722bdf06ffa919d0d"
   },
   {
+   "name": "BSTM_v1.8.56_EvoGrand.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67640,
+   "image": "4B4536E48092509F",
+   "version": "1.8.56",
+   "variant": 1,
+   "variantName": "Evo Grand",
+   "size": 47588,
+   "sha256": "10649a75bde9c7fc70ec73e350f8d9a1fea3a28f273250e94737f6bc4a7bb32d"
+  },
+  {
    "name": "BSTM_v1.8.56_EvoLFP.bfw",
    "family": "BSTM",
    "ext": ".bfw",
@@ -299,6 +311,18 @@
    "image": "BBE136DB0A151B13",
    "size": 101164,
    "sha256": "90de434aa331c8e2d18dd364bd0017540439dc91048bb8316713ad36d60b067e"
+  },
+  {
+   "name": "BSTM_v1.8.56_EvoLFP.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67640,
+   "image": "B53CA62C1E59A6A9",
+   "version": "1.8.56",
+   "variant": 3,
+   "variantName": "Evo LFP",
+   "size": 47588,
+   "sha256": "911d8b696eb393656f4af8d3dcaca2290baff50d51924943f654e88d295301eb"
   },
   {
    "name": "BSTM_v1.8.56_EvoMax.bfw",
@@ -314,6 +338,18 @@
    "sha256": "08d4c4a9603d4326ade88420ab475d3c1bbddf649c712269429711f4325f2eb6"
   },
   {
+   "name": "BSTM_v1.8.56_EvoMax.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67640,
+   "image": "57B8C13CCC5EB2E2",
+   "version": "1.8.56",
+   "variant": 2,
+   "variantName": "Evo Max",
+   "size": 47588,
+   "sha256": "8be8d731a20749087e97001df7d3fec6ad16d3ae5893fdc9c517948e200c7ebe"
+  },
+  {
    "name": "BSTM_v1.8.56_Feliz2021.bfw",
    "family": "BSTM",
    "ext": ".bfw",
@@ -325,6 +361,18 @@
    "image": "A50CB67477951ED8",
    "size": 101167,
    "sha256": "434b2e7201c2e8302b3ef2ef1ff24e21c630311845585842e5a91a2fef2b48cf"
+  },
+  {
+   "name": "BSTM_v1.8.56_Feliz2021.fzp",
+   "family": "BSTM",
+   "ext": ".fzp",
+   "ver": 67640,
+   "image": "4DA35C91207DFBC4",
+   "version": "1.8.56",
+   "variant": 0,
+   "variantName": "Feliz 2021",
+   "size": 47588,
+   "sha256": "e97e4bd7101e100281b465c702c4328332e041c303b3a6fe409cd43165d3202f"
   },
   {
    "name": "BSTM_v1.8.57_EvoMax_Custom.bfw",
