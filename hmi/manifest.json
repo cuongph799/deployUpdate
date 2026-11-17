@@ -3,6 +3,13 @@
  "hw": "C3HM",
  "packages": [
   {
+   "name": "HMI_v5.3.2.hmp",
+   "ver": 328450,
+   "version": "5.3.2",
+   "size": 1726108,
+   "sha256": "e475ba2fbfff8284f8dd03bae3e988c84a327e8f1ec4d6fcae72d58163ce1d77"
+  },
+  {
    "name": "HMI_v5.3.1.hmp",
    "ver": 328449,
    "version": "5.3.1",
