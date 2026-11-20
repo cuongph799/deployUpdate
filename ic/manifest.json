@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-18T16:50:57+07:00",
+ "updated": "2026-11-20T13:11:34+07:00",
  "packages": [
   {
    "name": "BLSK_v1.7.75_Feliz2021.bfw",
@@ -228,21 +228,21 @@
    "variant": "EvoLFP",
    "cfg": "00000003",
    "keyId": "638BA293",
-   "image": "6F93539CD9011EC6",
-   "size": 101702,
-   "sha256": "02ac2800be2b20e9fe3a8fb8339ab6034b8de4656f68eb9ced30260018df982c"
+   "image": "BA9E37CEE1D60BB2",
+   "size": 102240,
+   "sha256": "2af8cf0d11b9ad96c4978e482b9406d105aa40f1f4de7a051cd4777084a18027"
   },
   {
    "name": "BSTM_v1.8.61_EvoLFP.fzp",
    "family": "BSTM",
    "ext": ".fzp",
    "ver": 67645,
-   "image": "E0CCF4A61F84F947",
+   "image": "F53C3D003476A1E2",
    "version": "1.8.61",
    "variant": 3,
    "variantName": "Evo LFP",
    "size": 47588,
-   "sha256": "43f6c4b5cce1562c9bc230f0399d934291cc8f344fc8969e97ff040b9a8befe3"
+   "sha256": "27cbcfdc917398ab52118880badb7f0c21b9c2e1e71d132d0af153d9bd1d41f0"
   },
   {
    "name": "BSTM_v1.8.61_EvoMax.bfw",
