@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-25T15:18:46+07:00",
+ "updated": "2026-11-25T15:21:11+07:00",
  "packages": [
   {
    "name": "BLSK_v1.7.90_Feliz2021.bfw",
@@ -325,9 +325,9 @@
    "variant": "EvoGrand",
    "cfg": "00000001",
    "keyId": "638BA293",
-   "image": "B6C8FBEF2024BE2B",
+   "image": "3E2A36B13A6AFE9A",
    "size": 100090,
-   "sha256": "446d0decb4bba426e9982f7b3ddc880a669af056ef65ba910fc4a8ec9da6f5d4"
+   "sha256": "f6391ac78dc9ef01129e2debf8942ce2303f1fe21e8a82b52fe432a7a73e173d"
   },
   {
    "name": "BSTM_v1.8.72_EvoGrand.fzp",
@@ -339,7 +339,7 @@
    "variant": 1,
    "variantName": "Evo Grand",
    "size": 47588,
-   "sha256": "78e6249d3c63c7e8d9f942e8fa49cc3f11a59c04e1217f4ee32ec7c9066259bd"
+   "sha256": "eb646987167e10179ac2d1ab81f81c04ec49bbc43fbb6e0ffe73f6270cb69ebb"
   },
   {
    "name": "BSTM_v1.8.72_EvoLFP.bfw",
@@ -350,9 +350,9 @@
    "variant": "EvoLFP",
    "cfg": "00000003",
    "keyId": "638BA293",
-   "image": "D419A03464320504",
+   "image": "00583CF772067C0A",
    "size": 100088,
-   "sha256": "46a95288adca8162d02db35a2791eb92b2d83820a382a143d2af6d47ad418bce"
+   "sha256": "12c7f180172bb6c48fdfbfd10807c1f70af5dacd6f98f1ab75e81644a30705ee"
   },
   {
    "name": "BSTM_v1.8.72_EvoLFP.fzp",
@@ -364,7 +364,7 @@
    "variant": 3,
    "variantName": "Evo LFP",
    "size": 47588,
-   "sha256": "29bbc513733de2f5a0402902394a8f9608c13caf3ff591558edd12d479a83452"
+   "sha256": "1de0e5494a10038b67d0482869c4b58a3e8b91bdd3f0c7a18b3903f390a6fd70"
   },
   {
    "name": "BSTM_v1.8.72_EvoMax.bfw",
@@ -375,9 +375,9 @@
    "variant": "EvoMax",
    "cfg": "00000002",
    "keyId": "638BA293",
-   "image": "F76F9BE32691CF83",
+   "image": "8977F5AD5EE231AC",
    "size": 100626,
-   "sha256": "91bf9e136667c01b939f5677e46369b1f63f5ed3258d006c853a8c8088a178b3"
+   "sha256": "a60795e52bf38a43336428cc56035ec51b68b8661a711e06fc5353b9d0f34976"
   },
   {
    "name": "BSTM_v1.8.72_EvoMax.fzp",
@@ -389,7 +389,7 @@
    "variant": 2,
    "variantName": "Evo Max",
    "size": 47588,
-   "sha256": "22d6653a2cfb01eec3e7d238ff36b66b115c6d7a256c2c34292976e168979087"
+   "sha256": "cc44831ca012398ffecbf51b41f260bf82f90fb6ba471703da042bd10338eb85"
   },
   {
    "name": "BSTM_v1.8.72_Feliz2021.bfw",
@@ -400,9 +400,9 @@
    "variant": "Feliz2021",
    "cfg": "00000000",
    "keyId": "638BA293",
-   "image": "CF28CA946BC86E83",
+   "image": "E6A8250374B1EC96",
    "size": 100091,
-   "sha256": "4a2c5709b419c9cc2962e122956e9b723bf5d6b276e5f8baf7ffa050bfcda18f"
+   "sha256": "0f03226e17a85ab71d9f88e839057ea4b723aabd0896c9af6fdeba72dba72a64"
   },
   {
    "name": "BSTM_v1.8.72_Feliz2021.fzp",
@@ -414,7 +414,7 @@
    "variant": 0,
    "variantName": "Feliz 2021",
    "size": 47588,
-   "sha256": "e0cf219efe4551963bbb65cd674e9a17035cca244fac779f3e0a913c556b80f6"
+   "sha256": "b0bbacff49f6cfb5f998e4ad40eb9cdf43da8acbbab8c2da52fcfa53bfe05cce"
   },
   {
    "name": "BSTM_v1.8.72_Feliz2025_2.4.bfw",
@@ -425,9 +425,9 @@
    "variant": "Feliz2025_2.4",
    "cfg": "00000001",
    "keyId": "638BA293",
-   "image": "69F4BC6502BF2C54",
+   "image": "E7BAF3CE1CFD193B",
    "size": 100161,
-   "sha256": "a4b96bf74e25cfac5c2e4ea4d748e97680cb3b017bdee457a7e50815ce6017e5"
+   "sha256": "e32605271ac356774eedb9d9dce93b36471017ddbe9e687d42a61d7c3283428a"
   },
   {
    "name": "BSTM_v1.8.72_FelizS_3.5.bfw",
@@ -438,9 +438,9 @@
    "variant": "FelizS_3.5",
    "cfg": "00000003",
    "keyId": "638BA293",
-   "image": "0368C6F55C3F3C9A",
+   "image": "CCD29C3FE13E1E3B",
    "size": 100169,
-   "sha256": "61590a72acb608a91d3fb806fd9fcd68100ff4a64dd1ebb0a02acae0b7be8d15"
+   "sha256": "d2108fe9e705023b6648896c370b36e271d096f38c5cb8ff3478085fe0bc3cc1"
   },
   {
    "name": "BSTM_v1.8.72_Klara_3.5.bfw",
@@ -451,9 +451,9 @@
    "variant": "Klara_3.5",
    "cfg": "00000003",
    "keyId": "638BA293",
-   "image": "E29C13367072FF20",
+   "image": "5E378EACD93B3E33",
    "size": 100120,
-   "sha256": "554db6460d6eaf795ede8c13e79ce996715c2d4e2010b5ea4ebc73abb8604dbf"
+   "sha256": "67b6264d3dfb635850a346627936d614f396bdc33584b0d0462b4d74cbadb758"
   },
   {
    "name": "BSTM_v1.8.72_Klara_3.5.fzp",
