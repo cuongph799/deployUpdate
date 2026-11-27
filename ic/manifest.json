@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-27T12:09:45+07:00",
+ "updated": "2026-11-27T16:36:04+07:00",
  "packages": [
   {
    "name": "BLSK_v1.7.98_Feliz2021.bfw",
@@ -438,9 +438,9 @@
    "variant": "FelizS_3.5",
    "cfg": "00000003",
    "keyId": "638BA293",
-   "image": "A255F5114148532C",
+   "image": "02C0D8E7A0C44063",
    "size": 101197,
-   "sha256": "8559d06d29d54eb7018c21353e5ffaf806287f35d5f24e79eb28bc96c41f39d9"
+   "sha256": "e3a0999b76a769d29144664051d4b92005093ca2f231a9ee0d8acba45a8edf5e"
   },
   {
    "name": "BSTM_v1.8.82_Klara_3.5.bfw",
