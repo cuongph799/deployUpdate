@@ -1,7 +1,20 @@
 {
  "format": 1,
- "updated": "2026-11-27T16:36:04+07:00",
+ "updated": "2026-11-27T17:07:08+07:00",
  "packages": [
+  {
+   "name": "BLSK_v1.7.99_VentoNeo_3.5.bfw",
+   "family": "BLSK",
+   "ext": ".bfw",
+   "ver": 67427,
+   "version": "1.7.99",
+   "variant": "VentoNeo_3.5",
+   "cfg": "5F6A31D9",
+   "keyId": "638BA293",
+   "image": "A8295906E68E8FEC",
+   "size": 112399,
+   "sha256": "27679d579db56e3a5aad74906540abc78ff1c43d313aae62669768dbdf7ee97e"
+  },
   {
    "name": "BLSK_v1.7.98_Feliz2021.bfw",
    "family": "BLSK",
